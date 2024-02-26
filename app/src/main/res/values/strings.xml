@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="channel_description">Showing info from Work Manager</string>
+    <string name="channel_name">WorkManager</string>
+    <string name="msg_token_fmt">FCM token %s</string>
+</resources>
